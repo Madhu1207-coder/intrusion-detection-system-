@@ -16,7 +16,9 @@
 ## 🚀 Overview
 
 An **Intrusion Detection System (IDS)** is crucial in today's cybersecurity landscape to detect and prevent malicious activities in a network. This project uses **machine learning models** to classify network intrusions based on a labeled dataset. 🧠
-
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*zFY6Vp261PYV5aRcHJn2yQ.gif" width="300"/>
+</p>
 ---
 
 ## 🌟 Features
